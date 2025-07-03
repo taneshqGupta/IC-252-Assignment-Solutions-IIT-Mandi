@@ -4,6 +4,8 @@
 This repository contains my personal solutions to all assignments for the IC252 Probability and Statistics course at IIT Mandi.
 By :: Taneshq Gupta (CSE-UG/IIT-MANDI).
 
+**📄 Note**: Assignment question papers are also included as PDF files in their respective assignment folders.
+
 ## 📚 Course Overview
 - **Course Code**: IC252
 - **Course Title**: Probability and Statistics
