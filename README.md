@@ -1,21 +1,21 @@
-# IC252 - Probability and Statistics
-## IIT Mandi | Even Semester 2025 (January - July)
+### IC252 - Probability and Statistics
+#### IIT Mandi | Even Semester 2025 (January - July)
 
 This repository contains my personal solutions to all assignments for the IC252 Probability and Statistics course at IIT Mandi.
 By :: Taneshq Gupta (CSE-UG/IIT-MANDI).
 
 **📄 Note**: Assignment question papers are also included as PDF files in their respective assignment folders.
 
-## 📚 Course Overview
+#### 📚 Course Overview
 - **Course Code**: IC252
 - **Course Title**: Probability and Statistics
 - **Institution**: Indian Institute of Technology Mandi
 - **Semester**: Even Semester 2025
 - **Duration**: January - July 2025
 
-## 📁 Repository Structure
+#### 📁 Repository Structure
 
-### Assignment Solutions
+##### Assignment Solutions
 - **[Assignment 1](ic252_assignment1/)** - Basic probability simulations | [📄 Question Paper](ic252_assignment1/Assignment%201_c78d2a13dd87a7e7676b202223db53cc.pdf)
   - Dice rolling probabilities
   - Ball drawing scenarios
@@ -63,7 +63,7 @@ By :: Taneshq Gupta (CSE-UG/IIT-MANDI).
   - Statistical moment calculations
   - Data fitting and visualization
 
-### Case Study
+##### Case Study
 - **[Case Study](ic252_casestudy/)** - Real-world data analysis | [📄 Question Paper](ic252_casestudy/Case%20Study_78b39c3b99748104c4565239a2092ee8.pdf)
   - **Week 1**: Descriptive statistics and frequency analysis
   - **Week 2**: Distribution fitting and parameter estimation
@@ -71,7 +71,7 @@ By :: Taneshq Gupta (CSE-UG/IIT-MANDI).
   - Confidence interval calculations
   - Model comparison and visualization
 
-## 🛠 Technologies Used
+#### 🛠 Technologies Used
 - **Python 3.x**
 - **Libraries**:
   - `numpy` - Numerical computations
@@ -81,34 +81,34 @@ By :: Taneshq Gupta (CSE-UG/IIT-MANDI).
   - `random` - Random number generation
   - `math` - Mathematical functions
 
-## 🎯 Key Concepts Covered
+#### 🎯 Key Concepts Covered
 
-### Key Algorithms
+##### Key Algorithms
 - **Inverse Transform Method**: For generating random samples from custom distributions
 - **Knuth Algorithm**: Efficient Poisson random number generation
 - **Monte Carlo Integration**: Numerical integration for complex probability calculations
 - **Maximum Likelihood Estimation**: Parameter fitting for various distributions
 
-### Probability Theory
+##### Probability Theory
 - Basic probability rules and axioms
 - Conditional probability and Bayes' theorem
 - Random variables and distributions
 - Joint and marginal distributions
 - Independence and correlation
 
-### Statistical Distributions
+##### Statistical Distributions
 - Discrete distributions (Binomial, Poisson, Hypergeometric)
 - Continuous distributions (Exponential, Uniform, Custom PDFs)
 - Distribution parameter estimation
 - Goodness-of-fit testing
 
-### Simulation Techniques
+##### Simulation Techniques
 - Monte Carlo methods
 - Inverse transform sampling
 - Random number generation algorithms
 - Bootstrap methods
 
-### Statistical Analysis
+##### Statistical Analysis
 - Descriptive statistics
 - Maximum likelihood estimation
 - Confidence intervals
@@ -116,14 +116,14 @@ By :: Taneshq Gupta (CSE-UG/IIT-MANDI).
 - Data visualization techniques
 
 
-## 🚀 Running the Code
+#### 🚀 Running the Code
 
-### Prerequisites
+##### Prerequisites
 ```bash
 pip install numpy pandas matplotlib scipy
 ```
 
-### Execution
+##### Execution
 Each assignment folder contains standalone Python scripts that can be executed directly:
 
 ```bash
@@ -137,17 +137,17 @@ For assignments with data dependencies:
 python a.py
 ```
 
-## 📈 Results and Insights
+#### 📈 Results and Insights
 The assignments demonstrate practical applications of probability theory, including:
 - Validation of theoretical results through simulation
 - Real-world data analysis and modeling
 - Comparison of different statistical approaches
 - Visualization of complex probability concepts
 
-## 🤝 Academic Integrity
+#### 🤝 Academic Integrity
 These solutions represent my personal work for educational purposes. Please use them responsibly and in accordance with your institution's academic integrity policies.
 
-## 📧 Contact
+#### 📧 Contact
 For questions or discussions about the implementations, feel free to reach out.
 
 ---
