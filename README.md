@@ -16,12 +16,12 @@ By :: Taneshq Gupta (CSE-UG/IIT-MANDI).
 ## 📁 Repository Structure
 
 ### Assignment Solutions
-- **[Assignment 1](ic252_assignment1/)** - Basic probability simulations
+- **[Assignment 1](ic252_assignment1/)** - Basic probability simulations | [📄 Question Paper](ic252_assignment1/Assignment%201_c78d2a13dd87a7e7676b202223db53cc.pdf)
   - Dice rolling probabilities
   - Ball drawing scenarios
   - Monte Carlo simulations
 
-- **[Assignment 2](ic252_assignment2/)** - Birthday paradox and combinatorics
+- **[Assignment 2](ic252_assignment2/)** - Birthday paradox and combinatorics | [📄 Question Paper](ic252_assignment2/Assignment%202_dee5544960657cf285b8c861ec6ae426.pdf)
   - Mathematical analysis vs Monte Carlo simulation
   - Group arrangements and probability calculations
 
@@ -29,20 +29,20 @@ By :: Taneshq Gupta (CSE-UG/IIT-MANDI).
   - Card selection problems
   - Bayesian probability applications
 
-- **[Assignment 4](ic252_assignment4/)** - Hypergeometric distribution
+- **[Assignment 4](ic252_assignment4/)** - Hypergeometric distribution | [📄 Question Paper](ic252_assignment4/Assignment%204_a45b078885383d59114d862d1aa529d8.pdf)
   - Urn simulation models
   - Theoretical vs estimated probability distributions
 
-- **[Assignment 5](ic252_assignment5/)** - Gift distribution problems
+- **[Assignment 5](ic252_assignment5/)** - Gift distribution problems | [📄 Question Paper](ic252_assignment5/Assignment%205_2da16b0adaa956117168033d32dffdca.pdf)
   - Derangement calculations
   - Employee gift matching scenarios
 
-- **[Assignment 6](ic252_assignment6/)** - Discrete distributions
+- **[Assignment 6](ic252_assignment6/)** - Discrete distributions | [📄 Question Paper](ic252_assignment6/Assignment%206_5ef1ee621c9c10c16066523f7c91fb17.pdf)
   - Binomial distribution (inverse transform method)
   - Poisson distribution (Knuth algorithm)
   - Distribution plotting and analysis
 
-- **[Assignment 7](ic252_assignment7/)** - Custom probability distributions
+- **[Assignment 7](ic252_assignment7/)** - Custom probability distributions | [📄 Question Paper](ic252_assignment7/Assignment%207_32790bc402836db3883e1243c7009eb0.pdf)
   - PDF and CDF implementations
   - Inverse transform sampling
   - Distribution visualization
@@ -58,13 +58,13 @@ By :: Taneshq Gupta (CSE-UG/IIT-MANDI).
   - Expected value and variance calculations
   - Theoretical vs simulated results
 
-- **[Assignment 10](ic252_assignment10/)** - PDF analysis and comparison
+- **[Assignment 10](ic252_assignment10/)** - PDF analysis and comparison | [📄 Question Paper](ic252_assignment10/Assignment%2010_f6228684a66b0bb476beba24cdb552ea.pdf)
   - Multiple PDF implementations
   - Statistical moment calculations
   - Data fitting and visualization
 
 ### Case Study
-- **[Case Study](ic252_casestudy/)** - Real-world data analysis
+- **[Case Study](ic252_casestudy/)** - Real-world data analysis | [📄 Question Paper](ic252_casestudy/Case%20Study_78b39c3b99748104c4565239a2092ee8.pdf)
   - **Week 1**: Descriptive statistics and frequency analysis
   - **Week 2**: Distribution fitting and parameter estimation
   - Maximum likelihood estimation
@@ -82,6 +82,12 @@ By :: Taneshq Gupta (CSE-UG/IIT-MANDI).
   - `math` - Mathematical functions
 
 ## 🎯 Key Concepts Covered
+
+### Key Algorithms
+- **Inverse Transform Method**: For generating random samples from custom distributions
+- **Knuth Algorithm**: Efficient Poisson random number generation
+- **Monte Carlo Integration**: Numerical integration for complex probability calculations
+- **Maximum Likelihood Estimation**: Parameter fitting for various distributions
 
 ### Probability Theory
 - Basic probability rules and axioms
@@ -109,6 +115,7 @@ By :: Taneshq Gupta (CSE-UG/IIT-MANDI).
 - Hypothesis testing
 - Data visualization techniques
 
+
 ## 🚀 Running the Code
 
 ### Prerequisites
@@ -121,7 +128,7 @@ Each assignment folder contains standalone Python scripts that can be executed d
 
 ```bash
 cd ic252_assignment[X]
-python [script_name].py
+python3 [script_name].py
 ```
 
 For assignments with data dependencies:
@@ -129,20 +136,6 @@ For assignments with data dependencies:
 # Ensure CSV files are in the same directory
 python a.py
 ```
-
-## 📊 Notable Implementations
-
-### Custom Classes
-- **Santa Class**: Used across multiple assignments for simulation frameworks
-- **PDFAnalyzer**: Comprehensive PDF analysis and comparison
-- **UrnSimulation**: Hypergeometric distribution modeling
-- **CoupleSeatingSimulator**: Complex arrangement probability calculations
-
-### Key Algorithms
-- **Inverse Transform Method**: For generating random samples from custom distributions
-- **Knuth Algorithm**: Efficient Poisson random number generation
-- **Monte Carlo Integration**: Numerical integration for complex probability calculations
-- **Maximum Likelihood Estimation**: Parameter fitting for various distributions
 
 ## 📈 Results and Insights
 The assignments demonstrate practical applications of probability theory, including:
