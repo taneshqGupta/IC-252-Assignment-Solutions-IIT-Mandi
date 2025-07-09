@@ -150,5 +150,5 @@ python a.py
 #### Contact
 ###### For questions or discussions about the implementations, feel free to reach out.
 
-###### ---
+---
 ###### *Probability is not about the odds. It's about belief in the existence of an alternative outcome, event, or reality.* - Debasish Mridha
