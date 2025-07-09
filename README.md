@@ -119,23 +119,23 @@
 #### Running the Code
 
 ##### Prerequisites
-###### ```bash
-###### pip install numpy pandas matplotlib scipy
-###### ```
+```bash
+pip install numpy pandas matplotlib scipy
+```
 
 ##### Execution
 ###### Each assignment folder contains standalone Python scripts that can be executed directly:
 
-###### ```bash
-###### cd ic252_assignment[X]
-###### python3 [script_name].py
-###### ```
+```bash
+cd ic252_assignment[X]
+python3 [script_name].py
+```
 
 ###### For assignments with data dependencies:
-###### ```bash
-###### # Ensure CSV files are in the same directory
-###### python a.py
-###### ```
+```bash
+# Ensure CSV files are in the same directory
+python a.py
+```
 
 #### Results and Insights
 ###### The assignments demonstrate practical applications of probability theory, including:
